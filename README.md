@@ -1,0 +1,1 @@
+This is a business blog card made with HTML and CSS. The card has an attractive and modern design to attract the customer. At the top, we find two images, going down, we find a title and text and ,at the bottom, there is the user's photo with name and description.
